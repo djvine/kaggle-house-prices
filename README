@@ -1,0 +1,3 @@
+Preciting house prices in Ames, Iowa for a Kaggle competition.
+
+Regression using scikit-learn and XGBoost.
